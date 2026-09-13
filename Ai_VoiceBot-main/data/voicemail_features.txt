@@ -1,0 +1,91 @@
+What is included in voicemail:
+All customers with a Telecom plan receive both Enhanced Voicemail and Visual Voicemail:
+    - Enhanced Voicemail:
+        - Enhanced Voicemail is the default voicemail inbox to call or dial to check and manage voicemail messages.
+        - Available for all customers, regardless of device software.
+        - Default SOCs added to accounts to enable voicemail.
+        - Visual Voicemail requires both Enhanced Voicemail (VM2) and a data feature to work.
+        - Prepaid Legacy: Customers must launch the Visual Voicemail app and complete the activation process. There is no SOC or feature code for Prepaid.
+    - Visual Voicemail:
+        - Visual Voicemail (VVM) is both an application on a device and a feature on the account.
+        - The Visual Voicemail SOC is no longer needed for Visual Voicemail to work properly.
+        - Default voicemail experience in addition to Enhanced Voicemail. 
+    - Voicemail box blocking: A voicemail box cannot be blocked. This functionality is not available.
+    - Postpaid customers also have access to Voicemail on My Telecom support: Self-Service.
+
+Additional options:
+    - Voicemail to Text
+        - With Voicemail to Text (VTT), received voicemail messages are transcribed and delivered as a SMS or directly transcribed in the application.
+        - Feature offered for an additional monthly fee.
+    - Voicemail to Text (VTT) Block
+        - All customers that opt-in to Telecom Scam Shield receive Voicemail to Text.
+        - Voicemail to Text (VTT) Block disables the Voicemail to Text delivery.
+        - The audio recording is still available.
+
+Who is eligible for Visual Voicemail and Voicemail to Text:
+    - Enhanced or Visual Voicemail (VVM): Available to US and Puerto Rico consumer and business voice lines, including Prepaid.
+    - Voicemail to Text (VTT) Block: Available to US and Puerto Rico consumer and business postpaid voice lines. All devices are eligible for Voicemail to Text as long as they have an updated version of Visual Voicemail installed.
+
+
+Charges: When calling voicemail while on Telecom Nationwide plans, which is what most customers do:
+    - Voicemail retrieval from the device is billed according to the plan. Calls to voicemail deduct from the appropriate buckets on limited plans.
+    - Calls to retrieve voicemail do NOT rate as mobile-to-mobile calls.
+    - No charge for receiving voicemail.
+    - Voicemail retrievals appear as calls to one of these access numbers:
+        123
+        Your mobile number - Password required
+        1-805-MESSAGE
+        1-805-637-7243
+        1-805-637-7249 - Password required
+
+Charges: When calling voicemail while on Regional plans, which only a few customers do:
+    - While roaming, retrieval is charged at the regular roaming airtime charge of $0.49 per minute plus long distance.
+    - Not charged for receiving voicemail.
+
+Charges in International roaming depend on the scenatio:
+
+- Charges in Retrieving voicemail while roaming:
+    - When retrieving voicemail, customers are charged the international roaming rate of the country they are in.
+    - Voicemail charges appear as type "G" on the bill. This charge is valid.
+
+- Charges in International roaming if device is on, registered on a tower, and missed call goes to voicemail:
+    - In most cases, customers are charged one minute for delivering the call to the device, regardless if voicemail was left or not.
+    - Depending on the carrier's network, customers might also be charged for delivering the call from the device to voicemail.
+    - Charges for delivering calls and voicemail while roaming are valid and billed at the per minute rates associated with any given foreign carrier's network.
+
+- To avoid these call or voicemail delivery charges while roaming:
+    - Customers can set up unconditional call forwarding to voicemail, then use visual voicemail to read the voicemail, which uses data.
+    - When letting your customer know about this option, be sure to remind them to turn off unconditional call forwarding once they return from their trip.
+
+- Charges in International roaming if customer is charged for forwarding calls to voicemail, as apposed to delivery of unanswered call: In the rare instance that customers are charged for forwarding calls to voicemail, as opposed to the delivery of the unanswered call:
+    - Credit the usage for this charge and advise customers that the charge is valid.
+    - Credit should not exceed $5. Customers may need to contact a live agent to adjust the Billing Issue at the charge level.
+
+- Charges in International roaming if device is off and call goes to voicemail:
+    - Not charged for receiving voicemail while device remains turned off.
+    - When the device is turned on while roaming, any voicemail received while the device was off is charged once registered on international towers.
+
+Voicemail to text international usage:
+    - Voicemail to text works internationally when the account is set up properly.
+    - Voicemail is received as a text message, as long as message blocking is not active.
+    - Voicemail to text with the Visual Voicemail Client: As long as data is on, which can be done dialing #RON# and pressing call button, voicemail messages is received in the Visual Voicemail client as a text message.
+
+Voicemail converted to text while roaming:
+    - Saves customer money because SMS is a lower cost than a received voicemail, only if the customer has voicemail delivery turned off.
+    - Turning off delivery is for the SMS associated with the Voicemail to text feature. If customers have the device on when calls comes through, or turns the device on after a voicemail is left, but while still roaming internationally, they are charged for the VM deposit.
+    - To turn off, customers need to access the Visual Voicemail app settings, then turn off Send as SMS.
+
+Additional information:
+    - Some account or plan changes may cause voicemails to be deleted.
+    - Taxes and fees for this feature are included in the Monthly Recurring Charge when added to any taxes and fees included plan.
+    - Voicemail features don't include minute buckets, as voicemail access is billed according to plan type. There is no charge for system generated messages.
+    - Enhanced Voicemail SOCs are embedded into plans and can't be added manually.
+        - Customers may have variations of Enhanced Voicemail SOCs on their account based on customer or phone type.
+        - Visual Voicemail won't work without the VM2 feature on the account.
+    - The VVM SOC is not a required feature for VVM to work properly.
+    - iOS users who receive duplicate Voicemail to text notifications can use the Voicemail to Text Block to stop the duplicate notification.
+    - Android users can disable Voicemail to text in the Visual Voicemail app.
+    - Deleting the voicemail SOC from Samson removes the entire voicemail box and deletes any voicemails on the server and any recorded greetings.
+    - Canceled accounts:
+        - Customers must set up the voicemail box if the line is canceled and reactivated.
+        - Voicemails are deleted if a line is canceled and cannot be retrieved.

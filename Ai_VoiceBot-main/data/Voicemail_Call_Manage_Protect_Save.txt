@@ -1,0 +1,168 @@
+Voicemail: Call, Manage, Protect & Save.
+Telecom offers voicemail service, including Voicemail, Visual Voicemail (VVM), and Voicemail to Text (VTT). Learn more about managing the voicemail service, including protecting voicemail messages, checking voicemail by audio or text, voicemail mailbox setup, and class of service (COS). Verify all accounts before giving information on voicemail inbox changes.
+
+Protect & Saves Messages: Learn how to save messages to avoid deletion
+
+Voicemail protection and deletions:
+Account options:
+    - Postpaid customers can log in to their My Telecom account to save voicemail messages to a computer or an email address.
+    - Prepaid Legacy customers without an Android device with Telecom Visual Voicemail or iPhone with native iPhone Voicemail can call their voicemail regularly to re-save the messages before they are deleted.
+    - Visual Voicemail COS is the default voicemail experience for customers:
+        - Outside of the visual voicemail application, voicemail messages are automatically deleted after a specific period of time, both played and not played messages.
+        - This delete timeline is dependent on the type of voicemail on the account. There are no notifications for expiring messages.
+        - Customers must manually save messages and then re-save it every 14 to 30 days, depending on the voicemail type, or use a permanent save option to prevent deletion.
+
+Device options: Some devices automatically save voicemail messages to the device while others may delete after the standard time frame. Once messages are deleted and are no longer on our voicemail server, they cannot be recovered.
+
+Android devices with Telecom Visual Voicemail:
+    - All voicemails, even voicemail older than the server retention time, are automatically stored on the device inside the Visual Voicemail client.
+    - Messages are stored on the device for as long as there is enough memory unless customers perform one of the actions that might delete voicemails.
+
+iPhone devices:
+    - Customers can store voicemails in their device by activating the native iPhone Voicemail service found in the dialer. All voicemails, even voicemail older than the server retention time, are automatically stored on the device.
+    - Messages are stored on the device for as long as there is enough memory unless customers perform one of the actions that might delete voicemail.
+
+Scenarios that may delete voicemail: The following scenarios may delete all voicemails on the device and the Telecom network. If customers have important voicemails, instruct them to save messages before performing one of the following actions:
+    - Billing Account Number to Billing Account Number move
+    - Cancelation
+    - Change of Responsibility
+    - Changing to a new device
+    - Customer deletes messages
+    - Deleting data of the Visual Voicemail client on Android devices
+    - Master Reset of the device
+    - Mobile number change or Port request
+    - Performing a Restore of an older backup that does not contain recent voicemails
+    - Resend to switch
+    - Some rate plan or SOC changes
+    - Switching from prepaid to postpaid, or postpaid to prepaid
+    - Switching from Mobile Virtual Network Operator to Telecom, or Telecom to Mobile Virtual Network Operator
+    - Uninstalling the Visual Voicemail client or updates on Android Devices
+
+
+- Steps to manually save messages by calling voicemail. Start by telling the users that they can't perform these steps while in the current call and that you will walk them through the steps so they can write them down:
+    1. Call voicemail using any of the available options. 
+    2. Press the Star key to access the main menu.
+    3. Press 1 to listen to a message.
+    4. Press 9 after the message finishing playing to save the message. If you hang up without pressing any commands, the message will be marked as saved.
+    5. Understand that messages are saved for 30 days before automatic deletion.
+        - This process may be repeated multiple times to extend the deletion timeframe back to 30 days.
+        - Saved messages are marked for auto deletion on day 25.
+        - Customers will hear "You have X number of voicemail message which is due to automatic deletion. The message must be re-saved to prevent automatic deletion. Saved messages due to automatic deletion." when they call their voicemail.
+
+- Steps to manually save messages: save Visual Voicemail (VVM) messages from a device:
+	- Save a Visual Voicemail (VVM) on an Android or Apple device: Apple does not have a native Visual Voicemail (VVM) app. Only customers with Android devices can download the Telecom Visual Voicemail (VVM) app and follow these steps to download:
+    1. Ensure that you have the latest version of the Visual Voicemail (VVM) app installed. Older versions may operate differently.
+    2. From the Visual Voicemail (VVM) application, click the individual voicemail you want to save.
+    3. Tap Menu and select Save message to.
+        - You will see that the default save location is storage slash SD card, which is the internal memory.
+        - You will find the saved voicemail in the Visual Voicemail (VVM) folder located in the internal memory card, in AMR file format.
+
+- Steps to Manually save messages: copy Visual Voicemail (VVM) to a file folder:
+    1. From the Visual Voicemail (VVM) application Long press on a message.
+    2. Tap copy to, then select a name for the file and location to save the message.
+
+Save messages from My Telecom website:
+    - Telecom does not back up voicemail messages. Once deleted, messages cannot be recovered.
+    - Customers can use My Telecom website to access voicemail, regardless of COS, and download an MP3 file or email messages to permanently save them.
+        - This is a free service to all My Telecom users, but customers must first set up a My Telecom account before using this option.
+        - The Voicemail on My Telecom page has steps on how to educate customers about this process.
+    - Customers who delete a voicemail while calling their voicemail must recover the voicemail before they hang up.
+        - This can be done by listening to all of the messages in the inbox.
+        - If the message is marked for deletion, the menu will indicate this after listening to the message and the customer will need to press 9 to recover.
+        - If they hang up before hitting 9, the voicemail cannot be recovered.
+    - Customers who delete a desired voicemail from their Visual Voicemail app on their device can dial into the voicemail by dialing '123' to check if the message is recoverable.
+        - If they find it on the server, they can then use the save voicemail steps outlined below to recover it.
+        - Any available voicemail messages can be found by calling into the voicemail system or saved in the Visual Voicemail (VVM) app on the phone.
+    - Voicemail System, this means calling in to voicemail, will likely not show the same messages as the Visual Voicemail (VVM) app as messages downloaded to Visual Voicemail (VVM) will be removed from the Voicemail system per retention times.
+    - If messages are not found in either of these locations, then they have been deleted and are not recoverable.
+
+Steps to call and access voicemail: Customers are prompted to enter a three-digit random numeric captcha when leaving a voicemail when calling the backdoor voicemail number. This is to help prevent spam voicemail messages.
+- Steps to call and access voicemail: From Telecom device: Choose one of these methods:
+    - Press and hold the 1 key for about one second. Tell the users that will be able to do this after the current call finishes.
+    - Call 123. Tell the users that will be able to do this after the current call finishes.
+    - Call 1-805-MESSAGE or 1-805-637-7243, which is the same. Tell the users that will be able to do this after the current call finishes.
+    - Call your own mobile number. Tell the users that will be able to do this after the current call finishes.
+    - Access the phone app and tap the voicemail option if the phone has a built-in voicemail feature, for example iPhone, Google or OnePlus devices.
+
+- Steps to call and access voicemail: From non-Telecom phone or landline follow these steps. Start by telling the users that they can't perform these steps while in the current call and that you will walk them through the steps so they can write them down:
+    1. Call your own mobile number.
+    2. Wait for the call to be sent to voicemail.
+    3. Press the star key to interrupt the current greeting.
+    4. At the prompt, enter the password.
+
+Steps to call and access voicemail while roaming: Voicemail shortcuts such as holding the 1 key or dialing 123 may not work while roaming. Customers who have an international roaming feature and an active data connection can use Visual Voicemail. Start by telling the users that they can't perform these steps while in the current call and that you will walk them through the steps so they can write them down and perform them after the call has finished. The steps are:
+    1. When using a landline or while roaming, call the mobile number the customer wants to retrieve voicemail from.
+    2. Interrupt voicemail greeting by pressing the Star key.
+    3. When prompted, enter the voicemail password, the one selected during setup.
+    4. Customer might need to reset voicemail password. To do so:
+        - Dial #793# if in US and press call button.
+        - Dial plus 1-505-998-3793 if outside US.
+        - Customer may receive an SMS with their PIN.
+    5. Follow menu prompts to check voicemail messages.
+    6. Advise customers of the following:
+        - When calling voicemail center, landline long distance fees may apply and these won't be credited by Telecom.
+        - When calling your own mobile number:
+            - Turn off the device before calling the mobile number from a landline.
+            - It may take up to an hour for the foreign carrier's network to drop the customer's registration.
+            - Call delivery charges may apply if the device is turned on and or registered on the roaming carrier's network.
+    7. Understand the expected behaviors while customers are roaming:
+        - Domestic roaming: Some customers can't use 1-805-MESSAGE when calling from a landline while in the same area code as the mobile number they are checking messages for.
+        - International roaming:
+            - While internationally roaming, customers must dial the International Direct Dialing prefix for the country they are roaming in before dialing the mobile number.
+            - Explain applicable landline long distance fees may apply and won't be credited by Telecom.
+
+Access voicemail issues: Voicemail workaround: Instruct customers to follow these steps if they get an error message when they dial 1-805-637-7243, which is the same as 1-805-MESSAGE, from a landline or while roaming. Start by telling the users that they can't perform these steps while in the current call and that you will walk them through the steps so they can write them down. The steps are:
+    1. Perform one of the following:
+        - Dial your own number from a landline but DO NOT answer the call.
+        - Dial 1-805-637-7249, which is the same as 1-805-MESSAGE, and press call button. Then enter your 10-digit number.
+    2. While the voicemail greeting is playing, press the star key and enter the password.
+
+
+Stuck voicemail messages:
+A voicemail message may become 'stuck' in the system. If customers hear the message even after they have pressed 7 to delete the message, have them complete the following steps. Start by telling the users that they can't perform these steps while in the current call and that you will walk them through the steps so they can write them down:
+    1. Instruct the customer to call their voicemail. 
+    2. Save the message marked for deletion.
+    3. Hang up and redial voicemail.
+    4. Select Delete after listening to the message.
+
+
+Manage the password for voicemail: Password security has been set to always on when calling into voicemail when dialing your own mobile number OR 1-805-637-7249. Make sure you aren't roaming when attempting to set up voicemail for the first time. If you decline to set up the voicemail password and or greeting, the tutorial plays each time until both the password and greeting are set up.
+Steps fo the first-time setup. Start by telling the users that they can't perform these steps while in the current call and that you will walk them through the steps so they can write them down:
+    1. Dial 123 and press Send.
+    2. If prompted for a password the first time you access your new voicemail account, use the last four digits of your mobile number.
+    3. Follow the tutorial to set up your voicemail password and greeting.
+
+
+Steps to change, turn on or turn off voicemail password. Start by telling the users that they can't perform these steps while in the current call and that you will walk them through the steps so they can write them down:
+    1. Dial 123.
+    2. Press Send.
+    3. Press the star key to access the main menu.
+    4. Press 5 to access the Password Security menu.
+        - Change password: Press 1 and then follow the prompts to finish changing your password.
+        - Turn On or Off Voicemail Password: Press 2 to toggle the voicemail password between enabled and disabled.
+
+
+Class of service (COS) details for troubleshooting:
+Voicemail COS determines the voicemail options. Review which COS corresponds to which voicemail option and inform customers on available services:
+    MVNO - VM
+    MVNO - Visual Voicemail: Not all MVNOs offer Visual Voicemail. Customers should check with their provider.
+    Metro - Visual Voicemail
+    Metro - Visual Voicemail+VM2TEXT
+    TMO - Postpaid Visual Voicemail+VM2TEXT: Also use for postpaid iPhone with VM2TEXT
+    TMO - Postpaid Temp Visual Voicemail
+    TMO - Postpaid Visual Voicemail: Also use for postpaid iPhone
+    TMO - Prepaid Visual Voicemail: Also use for prepaid iPhone
+
+
+Class of Service (COS): Digits Line Voicemail Prepaid (1350) 	Max number of messages: 45, 	Played and unplayed message days saved: 14 and 30 respectively, 	Max message length: 180 seconds
+Class of Service (COS): Digits Line Voicemail Postpaid (1340) 	Max number of messages: 45, 	Played and unplayed message days saved: 30, 	Max message length: 180 seconds
+Class of Service (COS): Digits Line Voicemail To Text Prepaid (1280) 	Max number of messages: 45, 	Played and unplayed message days saved: 14 and 30 respectively, 	Max message length: 180 seconds
+Class of Service (COS): Digits Line Voicemail To Text Postpaid (1240) 	Max number of messages: 45, 	Played and unplayed message days saved: 30, 	Max message length: 180 seconds
+Class of Service (COS): Visual Voicemail Postpaid (340) 	Max number of messages: 45, 	Played and unplayed message days saved: 30, 	Max message length: 180 seconds
+Class of Service (COS): Visual Voicemail Prepaid (350) 	Max number of messages: 45, 	Played and unplayed message days saved: 14 and 30 respectively, 	Max message length: 180 seconds
+Class of Service (COS): Voicemail to Text (240) 	Max number of messages: 45, 	Played and unplayed message days saved: 30, 	Max message length: 180 seconds
+Class of Service (COS): Metro Visual Voicemail (170) 	Max number of messages: 45, 	Played and unplayed message days saved: 14 and 30 respectively, 	Max message length: 180 seconds
+Class of Service (COS): Metro Voicemail to Text (180) 	Max number of messages: 45, 	Played and unplayed message days saved: 14 and 30 respectively, 	Max message length: 180 seconds
+Class of Service (COS): MVNO Visual Voicemail (160) 	Max number of messages: 45, 	Played and unplayed message days saved: 14 and 30 respectively, 	Max message length: 180 seconds
+Class of Service (COS): MVNO Voicemail (130) 	Max number of messages: 15, 	Played and unplayed message days saved: 14, 	Max message length: 180 seconds
+

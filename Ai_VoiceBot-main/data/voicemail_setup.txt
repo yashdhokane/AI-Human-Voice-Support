@@ -1,0 +1,118 @@
+Telecom provides multiple options for voicemail: Voicemail, Visual Voicemail (VVM), and Voicemail to Text (VTT).
+
+Set up your voicemail using your phone keypad with these steps. Start by telling the users that they can't perform these steps while in the current call and that you will walk them through the steps so they can write them down:
+    1. Longpress the 1 key or use the voicemail app to connect to your voicemail.
+    2. During the first time setup, you may need to enter a password. The default is the last four digits of your phone number.
+    3. After using the default password, create a new password.
+        - Passwords can be any 4 to 7 digit code.
+        - A good password is one that's easy for you to remember, but hard for others to guess.
+        - You can use the shortcode #793# to reset your password. This will send a randomized PIN via text message that you can use to update your PIN to something you can remember. Press the call button after dialing the shortcode.
+    4. When prompted, record your greeting and name. Your voicemail is now ready to use.
+
+ 
+How to acces your voicemail settings menu using your phone keypad. Start by telling the users that they can't perform these steps while in the current call and that you will walk them through the steps so they can write them down:
+    - To access your voicemail setting menu, longpress the 1 key or open the voicemail app.
+    - If this doesn't work, dial 1-805-637-7249, enter your 10-digit number and while the voicemail greeting is playing, select star key and enter the password.
+    - If you're traveling internationally, read our International roaming checklist to learn how to check your messages.
+
+Once you're connected, select the keypad number assigned to the setting menu step for more options:
+
+In the voicemail settings menu accesible using your phone keypad: key number 1 is used to to listen to messages. The submenu for listening to messages is as follows:
+    pound key - Skip or Next message.
+    key 1 - Replay message.
+    key 2 - Forward message.
+    key 3 - Send reply.
+    key 4 - Print fax.
+    key 5 - Date or Time info.
+    key 7 - Delete message, you can select 1 to recover the message.
+    key 8 - Return call.
+    key 9 - Save message.
+
+In the voicemail settings menu accesible using your phone keypad: key number 2 is used To send a message. The submenu for sending messages is as follows:
+    pound key - Group lists.
+    key 1 - Send.
+    key 2 - Review message.
+    key 3 - Delete and rerecord.
+    key 4 - Delivery options.
+
+In the voicemail settings menu accesible using your phone keypad: key number 3 is used To create a greeting.  The submenu for creating a greeting is as follows:
+    key 1 - Play greeting.
+    key 2 - Record greeting.
+    key 3 - Greeting group.
+    key 4 - Record name as greeting.
+    key 5 - Phone number as greeting.
+
+In the voicemail settings menu accesible using your phone keypad: key number 4 is used for Mailbox options. The submenu for mailbox options is as follows:
+    key 1 - Group lists.
+    key 3 - Playback options. While in this submenu, you can press 7 to change to Spanish language.
+    key 4 - Fax options.
+    key 6 - Standard or Short prompts.
+
+For the playback options, that are available while listening to a message:
+Options available while listening to a message:
+    key 1 - Rewind.
+    key 2 - Pause.
+    key 3 - Fast forward.
+    keys 4 and then 4 again - Slow down playback.
+    keys 6 and then 6 again - Speed up playback.
+
+
+In the voicemail settings menu accesible using your phone keypad: key Number 5 is used for Password security. By default, you aren't asked for your password when checking your voicemail from your device. If you have your outgoing caller ID blocked, you're required to enter your password when you call your voicemail from your device. Telecom recommends that you turn on your voicemail password for added security. The submenu for password security is as follows:
+    key 1 - Change password.
+    key 2 - Enable or Disable password.
+
+
+
+Universal commands of the voicemail settins menu: If you got lost in the message menu, the phone keypad instructions for universal commands are: 
+    key 0 - Help.
+    keys star star - Main menu.
+    key star - Cancel or Back up.
+
+
+Save and delete messages using your phone keypad: Voicemails are deleted if the auto-save period is reached. The auto-save period can be from 14 to 30-days, depending on the type of voicemail. If you hear "You have X number of voicemail message which is due to automatic deletion..." check out the steps on this page to save the messages: 
+- Steps to Save messages: After you've listened to your voicemail message, select the 9 key to save the message. You can repeat this to save the message in your voicemail box before the auto-save period runs out. To retrieve the saved message and save it to a different location, set up your Telecom account online, and follow the Use voicemail on a computer steps on this page. You can save a voicemail if it is less than 30 days from the day it was originally deposited or when it was last saved.
+- Steps to Delete messages: If you're listening to your voicemail and delete it, don't hang up. A voicemail message can be retrieved before the same call is disconnected. Once the call has ended there is no way to retrieve the deleted voicemail message.
+
+
+The voicemail platform migration for BlackBerry or Windows Phone messages: The migration will automatically delete any voicemail messages over 30-days old, played, unplayed, or saved, from the old platform. The voicemail platform migration is bringing an improved and updated experience to Telecom voicemail. Save your messages before the migration to prevent automatic deletion.
+To prevent losing your messages, forward or save them before the migration starts.
+To forward messages from all devices, if voicemail is less than 30-days old, follow these steps. Start by telling the users that they can't perform these steps while in the current call and that you will walk them through the steps so they can write them down:
+    1. Longpress the 1 key or open the voicemail app.
+    2. Listen to the message you want to forward.
+    3. Once the message has played, select the 6 key to listen to more options, then select the 2 key to forward the message.
+    4. Enter the ten-digit number you wish to forward the message to, then select the # key. Additional numbers can be entered if necessary. Once complete, select the # key.
+
+For the voicemail platform migration in BlackBerry follow these steps:
+    1. For BlackBerry 10: In the BlackBerry Hub or the Phone app, touch and hold a voicemail message. For BlackBerry 7 or older: In the Visual Voicemail app, touch and hold a voicemail message.
+    2. Select Save As.
+    3. Select the location, and select Save.
+
+The voicemail platform migration for Windows Phone: Unfortunately, Windows devices do not have an option to back up voicemail. You can play them on speakerphone and record them using a laptop or PC microphone or you can use the Save instructions on this page if the message is less than 30-days old.
+
+Use voicemail on a computer:
+To download messages to a computer: If you're the Primary Account Holder, you can save your messages from your Telecom account using My Telecom website. These steps are for all devices including Windows, if voicemail is less than 30-days old. The steps are.
+    1. Log in to your Telecom account.
+    2. Select My Phone or Line Details then select Check Voicemail.
+    3. Log in to your Digits account.
+    4. Choose the message to download.
+    5. In the expanded menu, select Download.
+
+ 
+Listen to greetings or messages using My Telecom website. Follow these steps:
+    1. Log in to your Telecom account.
+    2. Select My Phone or Line Details then select Check Voicemail.
+    3. Log in to your Digits account. To listen to a message, select the Play icon next to the message.
+    4. Select Settings.
+    5. Select Greetings and follow the on-screen instructions.
+
+ 
+Send message as an email using My Telecom website. Follow these steps:
+    1. Log in to your Telecom account.
+    2. Select My Phone or Line Details then select Check Voicemail.
+    3. Log in to your Digits account.
+    4. Select Send as email next to the message.
+    5. Enter an email address in the To field.
+    5. Add an optional message in the Message field.
+    6. Select Send email. You'll get a 'sent successfully' message. The email will come from MSISDN@Telecomvoicemail.com.
+
+For the iOS duplicate Voicemail to Text notifications issue, update your service to add on the free Voicemail to Text block feature in the Telecom app, online through your Telecom account, or contact us so we can review your account.

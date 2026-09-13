@@ -1,0 +1,46 @@
+To make sure you can receive voicemail, check the following:
+    - You've set up voicemail.
+    - Your phone shows at least two signal bars. If you have fewer, your signal is too low for reliable service.
+    - For visual voicemail on iPhone, and to set up Visual Voicemail on your iPhone contact Apple Support.
+    - For visual voicemail on any device, your device needs at least 15% free memory. If there's less, free up space to allow the device to work properly.
+If your device meets these criteria, and you're still having trouble with voicemail, follow the steps on this page.
+
+- Trouble with voicemail: No voicemail notifications: If you're not getting notifications of new voicemails, try deleting texts or text threads. There are apps you can use to back them up before deleting them. If your text message box is full, your device may not be able to accept new texts or notifications, including those for voicemail.
+
+
+- Trouble with voicemail: If you can't call voicemail: Try dialing into voicemail using a different method. Start by telling the users that they can't perform these steps while in the current call and that you will walk them through the steps so they can write them down:
+    If you are:
+        - Using a non-Telecom phone, dial 1-805-MESSAGE (1-805-637-7243). Don't dial voicemail by selecting the 1 key or a preprogrammed voicemail button.
+        - Roaming internationally, review how to call your voicemail on our International roaming checklist.
+        - Hearing an error message, ringing, or busy signal when voicemail plays, select the 7 key.
+
+- Trouble with voicemail: If your unanswered calls don't go to voicemail these are methods to solve the issue that you can try. Start by telling the users that they can't perform these steps while in the current call and that you will walk them through the steps so they can write them down:
+    - 1. Dial ##004# and press call button to reset call forwarding settings.
+    - 2. Turn off Wi-Fi Calling. Choose Connections & Network and then Wi-Fi Settings.
+    - 3. Uninstall or disable any downloaded apps that make calls or manage voicemail.
+    - 4. Have a contact call you and leave a message. If the call doesn't go to voicemail, check your phone call forwarding setting for "When unanswered" is forwarding to 18056377243.
+
+
+Some Telecom Voicemail features, including Voicemail to Text (VTT), may not be compatible with Live Voicemail on iPhone. In iOS 17 and later, Live Voicemail is on by default. To Turn Live Voicemail on or off, follow these steps:
+    1. Open the Settings app, then choose Phone.
+    2. Choose Live Voicemail.
+    3. Select the Live Voicemail switch to turn it on or off.
+
+
+Trouble with voicemail: Visual voicemails don't download or appear. These are steps in order that you can try to solve the issue. Start by telling the users that they can't perform these steps while in the current call and that you will walk them through the steps so they can write them down :
+    1. Restart your phone.
+    2. Call your voicemail inbox.
+        - Confirm there is a message that hasn't shown in the Visual Voicemail app and save it.
+        - If there is no message, leave yourself a new message as a test. If that message doesn't appear, continue troubleshooting.
+    3. Turn off Wi-Fi to ensure you're using the Telecom network.
+    4. For Android only: Make sure you have the most recent Telecom Visual Voicemail app. If not, download it from Google Play.
+    5. For Android only: Sync the inbox. For help, use the Telecom Visual Voicemail app.
+    6. For Android only: Clear the app cache and app data of the Visual Voicemail app.
+        - Clearing the data deletes any messages over a month old and any messages saved only in the Visual Voicemail app.
+        - To save messages or send as email, use the steps on the Telecom Visual Voicemail app page.
+    7. Uninstall downloaded battery-saver apps, as some can conflict with voicemail.
+    8. Try to play a voicemail. If the message won't play, uninstall and redownload the Visual Voicemail app.
+    9. Update the phone software to the latest version. You can do this over Wi-Fi. Choose Software Updates & Backup and then Software updates.
+
+
+Voicemails have poor audio quality: If one or a few messages have poor audio quality, the person calling was experiencing problems. Have the person try again. If the quality is still poor, have them contact their service provider. If all your voicemail from multiple contacts are poor quality, save the messages and contact support about issues on calls.

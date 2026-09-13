@@ -1,0 +1,344 @@
+Telecom Visual Voicemail (VVM) app
+About the app:
+The app supports both English and Spanish and defaults to the device's system language.
+This app is only for Android devices, Apple iOS devices use a built-in voicemail app.
+- All of Android can download the Telecom Visual Voicemail (VVM) app.
+- iOS devices cannot download Telecom Visual Voicemail (VVM) app and must use the native iOS Visual Voicemail (VVM) app.
+- Google, One Plus, iOS, BlackBerry, and Windows devices have their own Visual Voicemail (VVM) app similar to iOS. The customer can also download the Telecom Visual Voicemail (VVM) app if they are Android if they prefer it. They can have either their own Visual Voicemail (VVM) app or the Telecom Visual Voicemail (VVM) app.
+The App will display voicemails for whichever SIM is selected as primary if the customer is using dual SIM for Samsung phones.
+The most recent version of the app will ask all users for access for app permission to device storage. This is only applicable for Sprint customers wanting to import. Telecom customers can select "no" to granting access and the app will function with no problems.
+
+Devices with the visual voicemail feature built into the native app dialer. All other devices not listed are not supported:
+  - Alcatel A507DL
+  - Alcatel A508DL
+  - Asus Google Nexus 7
+  - Asus Google Nexus 7 2013 LTE
+  - Asus Google Nexus 7 LTE
+  - Coolpad Colonel
+  - Google Bramble
+  - Google G025A
+  - Google Nest Guard
+  - Google Nexus 5P
+  - Google Pixel
+  - Google Pixel 2
+  - Google Pixel 2 XL
+  - Google Pixel 3
+  - Google Pixel 3 XL
+  - Google Pixel 3a
+  - Google Pixel 3a XL
+  - Google Pixel 4
+  - Google Pixel 4 XL
+  - Google Pixel XL
+  - Google Redfin
+  - Google Sunfish
+  - HTC Google Nexus 9
+  - Huawei Google Nexus 6P
+  - LG Google Nexus 4
+  - LG Google Nexus 5
+  - LG Nexus 5-Test Device
+  - LG Google Nexus 5X
+  - LG K51
+  - LG LM-G900UM
+  - LG LM-K300TM
+  - LG LM-L414DL
+  - LG LM-Q730TM
+  - Microsoft Surface DUO
+  - Motorola Borneo NA 21
+  - Motorola Channel
+  - Motorola Edge, Racer
+  - Motorola G Fast, Rav
+  - Motorola G8 Power, Sofia
+  - Motorola Google Nexus 6
+  - Motorola Google Nexus 6, Valocia
+  - Motorola GuamNA 21
+  - Motorola Kiev21
+  - Motorola Minsk NA 21
+  - Motorola Moto E, Gin Lite
+  - Motorola Moto E5, Moto G Play (6th Gen)
+  - Motorola Moto E6
+  - Motorola Moto E6 Play, Surf
+  - Motorola Moto E6, Moto E Play (5th Gen)
+  - Motorola Moto E6, Surf
+  - Motorola Moto G Power (7th Gen), Ocean
+  - Motorola Moto G Play
+  - Motorola Moto G7 Play
+  - Motorola Moto G7 Play, Channel
+  - Motorola Moto G7 Play, Oslo M
+  - Motorola Moto G7 Power
+  - Motorola Moto G8 Power, Sofia
+  - Motorola Moto G8 Stylus, Sofia+
+  - Motorola Moto Z3 Play
+  - Motorola Moto z4, Foles
+  - Motorola One 5G Ace
+  - Motorola One Action, Troika
+  - Motorola Revvl Plus Prototype
+  - Motorola Revvl Plus, Lake
+  - Motorola REVVLRY+
+  - Motorola Telecom Revvl, Channel
+  - Motorola Telecom REVVLRY
+  - NUU A6L-G
+  - OnePlus 5T
+  - OnePlus 6
+  - OnePlus 6T
+  - OnePlus 7
+  - OnePlus 7 Pro
+  - OnePlus 7T
+  - OnePlus 7T Pro 5G
+  - OnePlus 8
+  - OnePlus 8T
+  - OnePlus 9
+  - OnePlus 9 Pro
+  - OnePlus Nord N200 5G
+
+
+Placing a Call from Visual Voicemail App: Steps to Activate speaker:
+    1. Tap Visual Voicemail.
+    2. Tap the message you want to listen to.
+    3. Tap the Speaker button.
+    4. Tap the Play button.
+
+Placing a Call from Visual Voicemail App: Steps to Call voicemail:
+    1. Tap Visual Voicemail.
+    2. Tap the Menu button, which is identified by the three vertical dots.
+    3. Tap Call Voicemail.
+
+Placing a Call from Visual Voicemail App: Steps to Return a call:
+    1. Tap Visual Voicemail.
+    2. Tap the message you want to return a call.
+    3. Tap the Call button, which is identified by handset icon in top right.
+    4. Wait for the call to initiate.
+
+
+Visual Voicemail app functions: Steps to Add contact:
+    1. Launch the Visual Voicemail app.
+    2. Tap the picture icon to the left of the phone number you wish to add as a contact.
+    3. Tap Create Contact.
+    4. Follow procedures by device to create a new contact.
+
+Visual Voicemail app functions: Steps to Edit contact:
+    1. Launch the Visual Voicemail app.
+    2. Tap the picture icon to the left of the phone number you wish to add as a contact.
+    3. Follow procedures by device to edit an existing contact.
+
+Visual Voicemail app functions: Steps to record a greeting:
+    1. Tap Visual Voicemail.
+    2. Tap the Menu button on the top left side, which is identified by the three horizontal lines.
+    3. Tap App Settings.
+    4. Select Greetings & PIN.
+    5. Select Greetings.
+    6. In the Greetings section, the current active greeting will be listed. It may be labeled as Default, Name Greeting, or any other name that you previously selected.
+    7. To record a new a new greeting, select Personal Greeting.
+    8. Tap the Plus in the top right corner to add a new greeting.
+    9. Tap the record button at the bottom to begin recording. Click the record button to end recording. Greeting can be up to 3 minutes in length.
+    10. Click the Checkmark in the top right to name and save the new greeting.
+    11. Once saved, the personal greeting will now be listed and selected for use.
+
+Visual Voicemail app functions: Steps to Set active greeting:
+    1. Tap Visual Voicemail.
+    2. Tap the Menu button on the top left side, which is identified by the three horizontal lines.
+    3. Tap App Settings.
+    4. Select Greetings & PIN.
+    5. Select Greetings.
+    6. In the Greetings section, the available active greetings will be listed. It may be labeled as Default, Name Greeting, or any other name that you previously selected.
+    7. Click the radio button to the right of the name of the greeting you wish to set as active.
+    8. Click the back arrow at the top to exit the Greetings section.
+
+Visual Voicemail app functions: Steps to Delete a greeting:
+    1. Tap Visual Voicemail.
+    2. Tap the Menu button on the top left side, which is identified by the three horizontal lines.
+    3. Tap App Settings.
+    4. Select Greetings & PIN.
+    5. Select Greetings.
+    6. In the Greetings section, tap the currently active greeting in the list. It may be labeled as Default, Name Greeting, or any other name that you previously selected.
+    7. Tap the name of the greeting you wish to delete, for example, Old Greeting.
+    8. Tap the Trash Can icon in the lower right corner, this will delete the Greeting.
+
+Steps to Download or install Visual Voicemail:
+    1. Tap the Play Store app.
+    2. Search for Telecom Visual Voicemail.
+    3. Tap Install.
+    4. Check or uncheck Allow automatic updating.
+    5. Verify that Visual Voicemail (VVM) is installed, then tap Open.
+    6. Tap Visual Voicemail.
+    7. Tap Next.
+    8. Tap Done.
+
+Steps to Change the PIN in the Visual Voicemail app:
+    1. Tap Visual Voicemail.
+    2. Tap the Menu button on the top left side, which is identified by the three horizontal lines.
+    3. Tap App Settings.
+    4. Select Greetings & PIN.
+    5. Tap PIN.
+    6. Enter the current PIN in the greetings in PIN section.
+        - The default PIN is the last four digits of your phone number.
+        - To reset your PIN dial #793# on your device and then press call button. This will send a randomized PIN via text message.
+    7. Enter and confirm the new PIN.
+    8. Tap OK. A confirmation message appears if the change was successful.
+
+Steps to Manually set the language in the Visual Voicemail app:
+Voicemails and new or existing transcriptions of voicemails cannot not be translated. Only the initial Welcome Message appears in the newly selected language.
+    1. Tap Visual Voicemail.
+    2. Tap the Menu button on the top left side, which is identified by the three horizontal lines.
+    3. Tap Language.
+    4. Select the desired language which can be English or Spanish.
+
+Downloaded Visual Voicemail app: The app cannot be uninstalled from devices purchased from Telecom stores which have the application preloaded. Back up voicemails before removing the app. Removing the app may delete messages.
+
+Preloaded Visual Voicemail app: Disabling the application from within the application's Settings menu will turn it off on the device and resolve most issues with unwanted notifications, memory, and permissions.
+
+OnePlus 6T, Google Pixel and other BYOD devices: some devices, such as the OnePlus 6T and Google Pixel, come with a visual voicemail feature built into the native app dialer. When the Telecom Visual Voicemail (VVM) app is installed, it automatically disables this feature from the native app dialer. When the Telecom Visual Voicemail (VVM) app is uninstalled, the built in visual voicemail feature does not get re-enabled. To re-enable to defaul visual voicemail feature on these phones, follow these steps:
+    1. Open the native dialer app, which is identified by the Phone icon.
+    2. Tap Menu
+    3. Tap Settings and then tap Voicemail.
+    4. Tap Visual Voicemail to re-enable this feature.
+
+Steps to Change the sort options in the Visual voicemail app:
+    1. Tap Visual Voicemail.
+    2. Tap the Menu button, which is identified by the three horizontal lines.
+    3. Tap one of the following options:
+        - Sort alphabetically
+        - Sort by unviewed
+
+Steps to Delete multiple messages in the Visual voicemail app:
+    1. Tap Visual Voicemail.
+    2. Press and long hold on a voicemail message.
+    3. Tap the Checkmark box next to the voicemail.
+    4. Select all of the messages that you would like to delete.
+    5. Tap Delete, which is the trash can icon at the bottom.
+
+Steps to Share voicemail in the Visual voicemail app:
+    1. Tap Visual Voicemail, then the message you want to share.
+        - You can also click the menu in the top right, which is identified by the three horizontal lines, and select Share.
+    2. Press and long hold the desired message.
+    3. Tap Share at the bottom.
+    4. Tap the preferred method you want to share the message: email, SMS, etcetera.
+
+Steps to Sync the inbox in the Visual voicemail app:
+    1. Tap Visual Voicemail.
+    2. Long-pull down in the app to refresh or sync the app.
+
+Steps to save a voicemail to the SD card in the Visual voicemail app:
+    1. Tap Visual Voicemail.
+    2. Long tap a message, then tap Save message to.
+    3. Enter the file name.
+    4. Tap Save to copy the message to the memory card.
+
+Set Up Auto Translation in the Visual voicemail app: Choose a language for all incoming voicemail transcriptions. Translation Services are only included with Premium Voicemail. The steps are the following.
+    1. Open the Visual Voicemail app.
+    2. Select the Menu icon with three lines.
+    3. Choose App Settings
+    4. Tap Language and then Transcription language.
+    4. Select the desired language. A magenta checkmark will appear next to it.
+
+Steps to use on Demand Translation in the Visual voicemail app: Translation Services are only included with Premium Voicemail.
+    1. Open the Visual Voicemail app.
+    2. Select a voicemail message.
+    3. Select the Menu icon with three lines.
+    4. Choose Translate and pick the desired language.
+    5. Wait while the voicemail transcription is translated.
+
+Import Sprint voicemail messages: Sprint customers have a one-time option to import voicemail messages into the Telecom Visual Voicemail App when they start the app or update to version 5.28 or higher. To import voicemails, follow these steps:
+    1. Open the Visual Voicemail (VVM) app. You must have version 5.28 or higher.
+    2. Click Yes when asked for permission to access storage folder. If No is selected, there's no option to import.
+    3. if the Sprint voicemails are file formats are anything other than AMR or TXT then the voicemail will show from an "unknown caller."
+    4. Confirm that you see a Restored Messages tab at the top of the app. This has the previous voicemail messages.
+        - Around 250 to 300 voicemails should be visible in restored view.
+        - Restored view should not appear if zero files are imported.
+    5. Click the Restored Messages tab and then select a message to delete. Click Yes to permanently delete or No to skip.
+    6. Review all the messages upon using as the Restored Messages tab will not appear again if you close and re-start the Visual Voicemail (VVM) app.
+
+
+Steps to check the software version in the Visual voicemail app:
+    1. Tap Visual Voicemail.
+    2. Tap the Menu button on the top left side, which is represented by three horizontal lines.
+    3. Tap About.
+    4. Version is listed next to Application Version.
+
+Update the Visual voicemail app: Users on devices running Android 2.2.3 or lower will only be able to upgrade to a 5.3.x version of the client. 5.3.x releases include several known issues, mostly related to Audio and Notifications. To update the app, follow these steps:
+    1. Tap the Play Store app.
+    2. Search for Telecom Visual Voicemail.
+    3. Tap Update.
+    4. Tap Accept & download.
+    5. Tap Open.
+
+Receiving Transcriptions in the Visual voicemail app: Customers can receive transcriptions in SMS, email or the Visual Voicemail app.
+    - If SMS is enabled, the transcription will only come in SMS and will not be in the Visual Voicemail (VVM) app.
+    - If SMS is disabled and email is enabled, transcription will come in email as well as the Visual Voicemail (VVM) app.
+    - If SMS and email both enabled, then transcription come into SMS and email and will not be in the Visual Voicemail (VVM) app.
+
+Voicemail to text in the Visual voicemail app:
+This is a Scam Shield Premium only feature.
+Steps to opt-out of Voicemail to Text trial:
+    1. Tap Visual Voicemail and then tap Menu, which is represented by three horizontal lines.
+    2. Tap App Settings and then tap End Voicemail to Text free trial.
+    3. Tap Unsubscribe.
+
+Steps to Subscribe to Voicemail to Text in the Visual voicemail app:
+Only the Primary Account Holder of a postpaid account may subscribe to Voicemail to Text.
+    1. Tap Visual Voicemail.
+    2. Tap the Menu button, which is represented by three horizontal lines.
+    3. Tap App Settings.
+    4. Tap Add Voicemail to Text.
+    5. Tap Continue to upgrade to Voicemail to Text and view cost and availability.
+    6. Tap Confirm.
+
+Steps to turn on or off Voicemail to Text in the Visual voicemail app:
+    1. Tap Visual Voicemail.
+    2. Tap the Menu button, which is represented by three horizontal lines.
+    3. Tap App Settings.
+    4. Tap Voicemail Transcriptions. This is a Premium feature.
+    5. Tap SMS toggle ON or OFF.
+
+How to set up a voicemail PIN in the Visual voicemail app:
+    - For a user with a brand new SIM, the Visual Voicemail app will ask them to set up a new PIN.
+    - The app will ask them to re-enter the PIN to confirm.
+        - If they mistype the wrong PIN during the confirmation step, a screen will say PIN could not be set.
+        - The body of this screen will suggest the user to dial #793# to reset the pin, in which case, the temporary pin will be the last 4 digits of the users phone number.
+        - When they return to the PIN setup page, they can type in the last 4 digits of the phone number as temporary pin, and then they will start over the set up PIN process.
+
+
+Verified Business Calls, the formerly Enhanced Caller Information known as ECI:
+When enabled in the Visual Voicemail (VVM) app, Verified Business Calls provide a visual overlay on the top half of the user's device that shows not only who's calling, but why they might be calling—only if incoming caller is transmitting Verified Business Calls. This only occurs at the time of the incoming call and won't display in any missed call logs. See Verified Business Calls - Previously Enhanced Caller Information for more details.
+
+
+
+- Troubleshoot & Known issues in the Visual voicemail app: Customers attempting to update Visual Voicemail (VVM) receive "Can't install Telecom Visual Voicemail" error: Customers should export voicemails as a backup, uninstall the app, then reinstall from the Google Play Store and import their saved voicemails. If issue persists after these steps, continue troubleshooting.
+
+- Troubleshoot & Known issues in the Visual voicemail app: SIM card not detected after PSIM to ESIM: This issue will fix itself after about 30 seconds. No action needed other than to wait.
+
+- Troubleshoot & Known issues in the Visual voicemail app: User is not receiving notifications after upgrading to new Visual Voicemail (VVM) version: User will need to open the Visual Voicemail (VVM) app.
+
+- Troubleshoot & Known issues in the Visual voicemail app: Visual Voicemail detected a new SIM card or associated with a different number error: This message will appear if the app doesn't accurately detect a new SIM card or if the new SIM is associated with a different phone number. Click Yes and it works fine. The next Visual Voicemail (VVM) app release will resolve this issue.
+
+- Troubleshoot & Known issues in the Visual voicemail app: When a user makes a MSISDN change through Customer Care and can no longer receive voicemail: Switch to network from Wi-Fi to LTE and reauthenticate the app by reloading the voicemail.
+
+- Troubleshoot & Known issues in the Visual voicemail app: Not receiving or receiving multiple voicemail notifications for missed calls: This only occurs if the Data Saver mode is turned on. The Visual Voicemail App will not attempt to retrieve new voicemails when in Data Saver mode as a part of the setting. Once Data Saver mode is turned off, multiple notifications will deliver. Until a fix is in place, turn off Data Saver mode:
+    - Check to make sure the customer's Data saver is turned off. Go into the Phone settings, then tap Data Usage. Tap Data Saver and then tap Allow app while Data Saver on.
+    - If Data saver is off and the issue is still persisting, redirect the customer to an agent.
+
+- Troubleshoot & Known issues in the Visual voicemail app: Native Visual Voicemail (VVM) Client on Google Pixel and One Plus devices time stamp issue: Customers using Native Visual Voicemail (VVM) on these devices may have a time stamp issue of one hour. Support teams are working with the manufacturers to resolve the issue. Customers can restart their device to correct the time stamp issue. This will be done with every new voicemail deposit.
+
+
+- Steps to Troubleshoot & Known issues in the Visual voicemail app: Customers reporting Verified Business Call issues:
+    1. Open the Visual Voicemail (VVM) app.
+    2. Click on the Settings icon.
+    3. Select Verified Business Calls.
+    4. Click Support on the Verified Business Calls page. This directs the user to the Support page.
+
+
+Adding the Visual Voicemail App widget allows notification of waiting voicemails. This is for Android devices only. To add the widget follow these steps:
+1. Long press on the home screen on your device
+2. Select Widgets and then select Visual Voicemail
+
+To clear voicemail notifications in the Visual Voicemail app, follow these steps:
+1. Open the Visual Voicemail app 
+2. Tap the Menu button with three horizontal lines on the top left side
+3. Select Settings and click on Call.
+4. select Clear Voicemail Notifications to clear your notifications.
+
+
+To set ringtone for the Visual Voicemail App, for Android devices only, follow these steps:
+1. From the home screen of your device, select Dialer. 
+2. Tap the Menu button.
+3. Select Settings. 
+4. Select Call Settings and then Voicemail. You can choose the ringtone for your voicemails. 

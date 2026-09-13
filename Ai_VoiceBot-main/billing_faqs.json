@@ -1,0 +1,47 @@
+[
+  {
+    "id": "billing_001",
+    "question": "What are the different ways I can pay my T-Mobile bill?",
+    "answer": "You can typically pay your T-Mobile bill online in your account, in the T-Mobile app, by phone, by mail, or at a store. Some methods may have support fees in certain situations, so always check the latest details in your account or the official support page.",
+    "tags": ["billing", "payment_methods"],
+    "source_url": "https://www.t-mobile.com/support/account/pay-your-bill",
+    "last_updated": "2026-02-16",
+    "official": true
+  },
+  {
+    "id": "billing_002",
+    "question": "How do I pay my T-Mobile bill online?",
+    "answer": "You can usually sign in to your T-Mobile account on the web or use the app to make a one-time payment with a card or bank method. The exact steps and options can change, so follow the prompts in your online account for the most up-to-date instructions.",
+    "tags": ["billing", "online_payment"],
+    "source_url": "https://www.t-mobile.com/support/account/pay-your-bill",
+    "last_updated": "2026-02-16",
+    "official": true
+  },
+  {
+    "id": "billing_003",
+    "question": "How do I set up AutoPay for my T-Mobile bill?",
+    "answer": "In most cases, you can turn on AutoPay from your T-Mobile account or app by choosing a payment method and agreeing to automatic monthly charges. Always review your account screens for current eligibility, timing, and any AutoPay conditions.",
+    "tags": ["billing", "late_payment","consequences","autopay"],
+    "source_url": "https://www.t-mobile.com/support/account/pay-your-bill",
+    "last_updated": "2026-02-16",
+    "official": true
+  },
+  {
+    "id": "billing_004",
+    "question": "What should I do if I can't pay my T-Mobile bill on time?",
+    "answer": "If you think you may miss a payment, sign in to your T-Mobile account or app to see if a payment arrangement is available, or contact T-Mobile for help. Options depend on your account status and policies at the time.",
+    "tags": ["billing", "payment_arrangement"],
+    "source_url": "https://www.t-mobile.com/support/new-to-tmobile/billing",
+    "last_updated": "2026-02-16",
+    "official": true
+  },
+  {
+    "id": "billing_005",
+    "question": "How can I check my T-Mobile bill balance?",
+    "answer": "You can normally see your balance and recent charges in your T-Mobile account online or in the app. Some customers can also use account short codes or automated phone menus, but check your account for the methods currently available to you.",
+    "tags": ["billing", "balance"],
+    "source_url": "https://www.t-mobile.com/support/new-to-tmobile/billing",
+    "last_updated": "2026-02-16",
+    "official": true
+  }
+]

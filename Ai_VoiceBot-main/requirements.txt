@@ -1,0 +1,3 @@
+ollama
+pinecone-client
+python-dotenv

@@ -1,0 +1,55 @@
+Voicemail on My Telecom website.
+
+These steps serve to instruct customers how to use voicemail on My Telecom website. Customers must be logged in to My Telecom and have a postpaid or Rebellion Prepaid 2.0 account to complete these steps. Legacy Prepaid is not supported. Not all procedures are available when using the mobile browser.
+
+Voicemail on My Telecom website: Steps to access voicemail:
+    1. Go to My Telecom and log in to your account.
+    2. In the My Line section, select View details.
+    3. In the Lines and Devices section, select the desired line.
+    4. Select Check voicemail.
+    5. Log into your DIGITS account, then select Voicemails.
+    6. For business lines, select My Phone or Line Details and then Voicemail.
+
+
+Voicemail on My Telecom website:  Steps to add or disable Voicemail to Text automatic email:
+    1. Go to My Telecom and log in to your account.
+    2. In the My Line section, select View details.
+    3. In the Lines and Devices section, select the desired line.
+    4. Select Check voicemail.
+    5. Log into your Digits account.
+    6. Click Settings and then Voicemail to email.
+    7. Click Voicemail to email on the left.
+    8. Click Turn on next to Voicemail to email.
+    9. Follow the onscreen prompts.
+
+Voicemail on My Telecom website: Steps to download messages to a computer:
+    1. Go to My Telecom and log in to your account.
+    2. In the My Line section, click View details.
+    3. In the Lines and Devices section, click the desired line.
+    4. Click Check Voicemail, then log in to your DIGITS account.
+    5. Click the message to download.
+    6. In the expanded menu, click Download.
+
+Voicemail on My Telecom website:  Steps to Listen to greetings or messages:
+    1. Go to My Telecom and log in to your account.
+    2. Click My Phone or Line Details an then click Check Voicemail.
+    3. Log into your Digits account. To listen to a message, click the Play icon next to the message.
+    4. Click Settings.
+    5. Click Greetings and follow the on-screen instructions.
+
+Voicemail on My Telecom website:  Steps to Send message as an email:
+    1. Go to My Telecom and log in to your account.
+    2. Click My Phone or Line Details and then click Check Voicemail.
+    3. Log into your Digits account.
+    4. Click Send as email next to the message.
+    5. Enter an email address in the To field.
+    6. Add an optional message in the Message field.
+    7. Click Send e-Mail. Ensure customers see a 'sent successfully' message. The email will arrive from MSISDN@Telecomvoicemail.com.
+
+Voicemail on My Telecom website: Issues accessing voicemail? If your customer is having issues accessing voicemail through My Telecom, have them try these steps:
+    1. Go to http://webdigits.Telecom.com.
+    2. Select Sign In and log on with your Telecom ID.
+    3. Select an account verification method.
+    4. Choose the line you want to manage.
+    5. Select the Voicemail icon.
+    6. Listen, save to your computer, or respond to your voicemails in any order.

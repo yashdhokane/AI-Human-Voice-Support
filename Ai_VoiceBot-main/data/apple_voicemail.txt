@@ -1,0 +1,33 @@
+Set up your voicemail on iPhone: In the Phone app, Visual Voicemail and Live Voicemail show a list of your messages. You can choose which ones to play and delete without listening to all of them. A badge on the Voicemail icon indicates the number of unheard messages.
+
+Voicemail on iPhone: Voicemail transcription, in beta, shows your messages transcribed into text. Transcription is limited to voicemails in English received on your iPhone with iOS 10 or later, and transcription depends on the quality of the recording. To view a transcribed voicemail, tap Voicemail in the Phone app.
+
+
+Set up voicemail on iPhone: The first time you tap Voicemail, you're asked to create a voicemail password and record your voicemail greeting. The steps are the following:
+1. Tap Voicemail, then tap Set Up Now.
+2. Create a voicemail password.
+3. Choose a greeting, it may be Default or Custom. If you choose Custom, you can record a new greeting.
+
+
+Turn on Live Voicemail on iPhone: Live Voicemail lets you automatically see a real-time transcription as someone is leaving you a message. You can even pick up the call as they're leaving their voicemail.
+
+To turn on Live Voicemail, do the following steps:
+1. Go to Settings.
+2. Tap Phone
+3. Tap Live Voicemail.
+4. Tap to turn on Live Voicemail.
+
+When Live Voicemail is on, your iPhone answers an incoming call and displays the caller's voicemail. Data rates may apply. The caller won't be able to hear you and you won't be able to hear them unless you choose to answer the call.
+
+If your iPhone is turned off or is out of your carrier network's range, the call is sent to carrier voicemail, if available.
+
+If you have Silence Unknown Callers turned on, unknown numbers go directly to Live Voicemail without ringing you first. Calls identified as spam by your carrier don't go through Live Voicemail and are instead instantly declined.
+
+Live Voicemail is available only in English in the United States and Canada, excluding Puerto Rico.
+
+
+iPhone: Store Voicemail in iCloud: You can store and sync your Live Voicemail and Carrier Voicemail in iCloud. To do so follow these steps:
+1. Go to Settings
+2. Tap your name 
+3. Tap iCloud.
+4. Tap 'Show All' under Apps Using iCloud, then turn on FaceTime.
